@@ -1,0 +1,19 @@
+{
+  "name": "aws-nodejs-test",
+  "version": "1.0.0",
+  "description": "servidor para testear mi servidor en AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wet333/aws-nodejs-test.git"
+  },
+  "author": "Agustin Wet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wet333/aws-nodejs-test/issues"
+  },
+  "homepage": "https://github.com/wet333/aws-nodejs-test#readme"
+}
